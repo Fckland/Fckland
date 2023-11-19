@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Fckland, my real name is Matias and I'm from Argentina :D
-- 👀 I’m interested in working home office as a trainee front-end developer, not yet full stack
-- 🌱 I’m currently learning all the technologies to be a full stack developer. HTML, CSS, JS, VUE, PYTHON, MySQL, DJANGO
-- 💞️ I’m looking to collaborate on easy projects that make me master all the above technologies 
+- 👋 Hi, I’m @Fckland, my real name is Matias and I'm from Argentina.
+
+- 🌱 I’m currently a back-end Node.JS developer, focused on API REST development and maintenance, services integrations and bug fixing, along with the use of NoSQL databases such as MongoDB, in an agile environment.
+  
 - 📫 How to reach me:
 - https://www.instagram.com/mati.sinisi/
 - WP: +5492236120491
